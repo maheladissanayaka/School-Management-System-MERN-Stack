@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Minimal base styles to ensure the app spans the full screen */
+:root {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  /* We remove the 'display: flex' and 'place-items: center' from Vite 
+     because our App.jsx will handle the layout now */
+}
