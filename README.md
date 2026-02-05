@@ -66,11 +66,3 @@ A robust and scalable web-based School Management System built using the **MERN 
     * **Backend:** `npm run dev` (starts server on port 5000)
     * **Frontend:** `npm run dev` (starts Vite server)
 
-## 📸 Screenshots
-*(You can upload screenshots of your Dashboard, Assignment Portal, and Teacher Profile here)*
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-## 📝 License
-This project is [MIT](LICENSE) licensed.
