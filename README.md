@@ -33,7 +33,7 @@ A robust and scalable web-based School Management System built using the **MERN 
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/school-management-system.git](https://github.com/YOUR_USERNAME/school-management-system.git)
+    git clone [https://github.com/maheladissanayaka/School-Management-System-MERN-Stack.git)
     cd school-management-system
     ```
 
